@@ -1,8 +1,8 @@
 {
-  "name": "name",
+  "name": "ldexterldesign",
   "version": "1.0.0",
-  "description": "description",
-  "author": "author",
+  "description": "UK Designer, based in EU",
+  "author": "Lewis Dexter Litanzios",
   "private": true,
   "scripts": {
     "dev": "nuxt",
