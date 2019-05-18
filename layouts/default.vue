@@ -24,7 +24,7 @@ html {
   margin: 0;
 }
 
-a:link {
+a {
   color: hsla(0, 100%, 100%, 100%);
   font-weight: 900;
 }
