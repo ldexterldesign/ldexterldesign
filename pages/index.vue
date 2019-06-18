@@ -29,14 +29,26 @@
         </g>
       </svg>
     </div>
-
     <a class="email" href="mailto:hi@ldexterldesign.uk">hi@ldexterldesign.uk</a>
   </section>
 </template>
 
 <style>
 html {
+  animation-direction: alternate;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-name: bar;
   background-color: hsla(0, 100%, 75%, 100%);
+}
+
+@keyframes bar {
+  from {
+    background-color: hsla(-25, 100%, 75%, 100%);
+  }
+  to {
+    background-color: hsla(0, 100%, 75%, 100%);
+  }
 }
 
 .container {
