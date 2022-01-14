@@ -29,7 +29,7 @@
         </g>
       </svg>
     </div>
-    <a class="email" href="mailto:hi@ldexterldesign.uk">hi@ldexterldesign.uk</a>
+    <a class="email" href="mailto:web@ldexterl.design">web@ldexterl.design</a>
   </section>
 </template>
 
