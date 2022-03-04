@@ -11,7 +11,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      { hid: 'description', name: 'description', content: pkg.description },
+      { httpEquiv: 'refresh', content: '3;url=https://gist.github.com/ldexterldesign/b4ca53ff6cf87d0bbd9cbde1355369aa'}
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
